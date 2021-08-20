@@ -1,0 +1,12 @@
+GIT Interview Questions
+1) What is GIT?
+Git is an open source distributed version control system and source code management (SCM) system with an insistence to control small and large projects with speed and efficiency.
+
+2) Which language is used in Git?
+Git uses 'C' language. Git is quick, and 'C' language makes this possible by decreasing the overhead of run times contained with high-level languages.
+
+3) What is a repository in Git?
+A repository consists of a list named .git, where git holds all of its metadata for the catalog. The content of the .git file is private to Git.
+
+4) What is 'bare repository' in Git?
+A bare repository in Git includes the version control information and no working files (no tree), and it doesn?t include the special. git sub-directory. Instead, it consists of all the contents of the .git sub-directory directly in the main directory itself, whereas working list comprises
